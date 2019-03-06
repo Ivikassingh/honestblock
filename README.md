@@ -1,2 +1,3 @@
 # honestblock
-This is a simple example of honest block website
+<h1>Prototype of final website for  counterfeit  the medicine</h1>
+<p>The website is developed by using HTML,CSS,BOOTSTRAP and JQuery</p>
